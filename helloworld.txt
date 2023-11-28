@@ -1,1 +1,2 @@
-<label>hello world</label>
+- ikhtiar
+- belajar
