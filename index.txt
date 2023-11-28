@@ -1,3 +1,4 @@
 index halaman web
 
+-kita mulai dengan main index
 - saya mulai dari halaman dashboard
